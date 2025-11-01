@@ -33,6 +33,12 @@ For that I used an USB to RS232 (5V) adapter and the following schematic:
 * Green is the TX pin from the serial adapter
 * The resistor is 1K.
 
+I used the following USB-to-Serial thing:
+
+![yp-05 usb to serial](yp05.png)
+
+Do make sure that the jumper is set to 5V.
+
 Once built you can test whether it can connect to the chip as follows:
 
 ```
