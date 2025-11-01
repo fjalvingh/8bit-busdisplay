@@ -43,3 +43,15 @@ which should answer something like:
 avrdude: AVR device initialized and ready to accept instructions
 avrdude: device signature = 0x1e9421 (probably t1616)
 ```
+
+## The schematic
+
+Made in Kicad, the schematic diagram is very simple:
+
+![Schematic](schematic.png)
+
+and the PCB is tiny:
+
+![PCB](pcb.png)
+
+The boards are on order from China, waiting for them to arrive to test the design.
