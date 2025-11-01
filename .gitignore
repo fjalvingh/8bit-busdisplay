@@ -1,4 +1,6 @@
-kicad/bytedisplay-backups
-kicad/fp-info-cache
+*-backups
+fp-info-cache
 *.lck
+production
+
 
