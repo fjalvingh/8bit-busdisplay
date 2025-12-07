@@ -14,7 +14,7 @@ I prototyped the thingy on a breadboard:
 
 ## Installing the prerequisite software (Linux/Ubuntu)
 
-I do not use Windows (I hate and detest Microsof) so for that you're on your own. I followed the instructions from here: [https://michael-crum.com/attiny1616/], many thanks to Michael!
+I do not use Windows (I hate and detest Microsoft) so for that you're on your own. I followed the instructions from here: [https://michael-crum.com/attiny1616/], many thanks to Michael!
 
 Basically, you do:
 
@@ -72,7 +72,7 @@ The boards I received look really nice:
 
 ![The boards, as received](boards-received-1.png)
 
-They look very clean and professional! It is amazing that you can get this for so low a price, and to have something that looks like it has been made by a professional instead of a hobbyist. They also worked out of the box; the only issue I had was my own fault: the footprint of the 10uF capacitor was incorrect, I will have to change that. I worked around it by using a smaller cap.
+They look very clean and professional! It is amazing that you can get this for so low a price, and to have something that looks like it has been made by a professional instead of a hobbyist (well, they were of course made by a professional service, PCBWay). They also worked out of the box; the only issue I had was my own fault: the footprint of the 10uF capacitor was incorrect. I will have to change that. I worked around it by using a smaller cap.
 
 The components on the boards can be quite easily hand soldered. The microcontroller is quite large so with good eyes or good glasses you can easily position and solder a single corner and then align all pins correctly. Once that is done solder the other corner, check again the alignment and solder the rest. You can do this without having to do drag soldering; as long as your iron has a tip that is not too large all should be easy. You do need solder with good flux, or you need to apply some flux yourself though.
 
@@ -98,5 +98,7 @@ Immediately after you should see the board light up:
 
 ![finished and programmed](finished-and-progd.png)
 
+The boards are quite useful for debugging designs, I am using them with my experiment with old am2901 ALU chips:
 
+![example usage](exampleusage.png)
 
