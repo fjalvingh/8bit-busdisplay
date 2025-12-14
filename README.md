@@ -70,7 +70,7 @@ The boards I received look really nice:
 
 ![The boards, as received](boards-received-1.png)
 
-They look very clean and professional! It is amazing that you can get this for so low a price, and to have something that looks like it has been made by a professional instead of a hobbyist (well, they were of course made by a professional service, PCBWay). They also worked out of the box; the only issue I had was my own fault: the footprint of the 10uF capacitor was incorrect. I will have to change that. I worked around it by using a smaller cap.
+They look very clean and professional! It is amazing that you can get this for so low a price, and to have something that looks like it has been made by a professional instead of a hobbyist (well, they were of course made by a professional service, PCBWay). They also worked out of the box; the only issue I had was my own fault: the footprint of the 10uF capacitor was incorrect. I will have to change that. I worked around it by using a smaller cap. (2025/12/14 This should now be fixed on the PCB).
 
 The components on the boards can be quite easily hand soldered. The microcontroller is quite large so with good eyes or good glasses you can easily position and solder a single corner and then align all pins correctly. Once that is done solder the other corner, check again the alignment and solder the rest. You can do this without having to do drag soldering; as long as your iron has a tip that is not too large all should be easy. You do need solder with good flux, or you need to apply some flux yourself though.
 
