@@ -1,8 +1,6 @@
 # 8-bit hex bus display board
 
-WORK IN PROGRESS, USE AT YOUR OWN RISK!
-
-This should become a small display board which can be used to show the 8-bit
+This is a small display board which can be used to show the 8-bit
 value on some bus on a 2 digit 7-segment display. The board uses an ATTINY1616
 microcontroller which is dirt cheap and has 18 I/O pins. I need 9 for the display
 (7x for a segment, 2x for selecting the digit) and 8 for input, so there's one
@@ -60,7 +58,7 @@ and the PCB is tiny:
 
 ![PCB](pcb.png)
 
-I ordered the PCBs from [PCBWay](https://pcbway.com), and they offered to send me the boards for free in return for a review. Ordering the boards is very simple through their website just upload the zip file with gerbers from Kicad. It gets even easier if you install the PCBWay plugin inside Kicad; with that the whole generation and upload process is done by the plugin, and you are left on the PCBWay page where you can further specify your needs for the PCB:
+I ordered the PCBs from [PCBWay](https://pcbway.com), and they offered to send me the boards for free in return for a review. Ordering the boards is very simple through their website - just upload the zip file with gerbers from Kicad. It gets even easier if you install the PCBWay plugin inside Kicad; with that the whole generation and upload process is done by the plugin, and you are left on the PCBWay page where you can further specify your needs for the PCB:
 
 ![PCBWay order page](order-1.png)
 
